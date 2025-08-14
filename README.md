@@ -1,3 +1,6 @@
+### dentro de venvmys
+python -m pip freeze > requirements.txt
+
 ### Permisos: chmod +x scripts/setup_venv.sh
 ### Inicialización
 ./scripts/setup_venv.sh   
