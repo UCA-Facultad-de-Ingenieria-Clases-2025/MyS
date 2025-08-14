@@ -7,4 +7,4 @@
 source venvmys/bin/activate
 python -m pip install <paquete>
 python -m pip freeze > requirements.txt
-Readme
+
